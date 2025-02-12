@@ -1,11 +1,7 @@
 ## Hi there 👋, I am Ruifeng Hu.
 
 <div align="center">
-### 🤗  Welcome to my GitHub.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Handlee&center=true&vCenter=true&width=500&height=60&lines=The+traveler+often+arrives%2C+and+the+doer+often+succeeds.)](https://git.io/typing-svg)
-<img src="https://cdn.jsdelivr.net/gh/eryajf/tu@main/img/image_20240420_214408.gif"
-width="800"  height="3">
+<h3>🤗  Welcome to my GitHub.</h3>
 </div>
 
 <img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
