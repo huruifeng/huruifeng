@@ -23,12 +23,17 @@ I thrive in **collaborative environments**, working closely with **wet lab scien
 Let's connect and explore new possibilities in **AI-driven bioinformatics**! 🔬🤖✨
 ---
 
+### 🧰 Programming
 
-### 🧰 语言工具
+[![My Skills](https://skillicons.dev/icons?i=py,r,powershell,c,cpp,java,go,js&theme=light)](https://github.com/eryajf)
 
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,bash,md,vim,go,vue,gradle,ai,linux,docker,kubernetes,elasticsearch,git,gitlab,grafana,jenkins,bots,mongodb,mysql,sqlite,redis,nginx,vscode,atom,obsidian,ansible,prometheus,wordpress,aws&theme=light)](https://github.com/eryajf)
+### 🧰 Developing
+
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,github,githubactions,aws,gcp,ubuntu,linux,docker,git,bash,md,mongodb,mysql,sqlite,postgres,postman,react,vite,nodejs,npm,materialui,d3,bootstrap,flask,fastapi,express,vscode,pycharm&theme=light)](https://github.com/eryajf)
 
 
+
+<!--
 ### 📝 My blog updates
 
 <details open>
@@ -36,7 +41,6 @@ Let's connect and explore new possibilities in **AI-driven bioinformatics**! �
 
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
-<!-- BLOG-POST-LIST:START -->
 - 🐻 [学习周刊-总第197期-2025年第06周](https://wiki.eryajf.net/pages/6a3f6a/) 
 
 - 🎃 [我的2024年](https://wiki.eryajf.net/pages/5f5910/) 
@@ -48,8 +52,7 @@ Let's connect and explore new possibilities in **AI-driven bioinformatics**! �
 - 🌁 [针对我昨天的言论被使者同步给开发商这件事儿做一些回应](https://wiki.eryajf.net/pages/82d296/) 
 
 - 😺 [学习周刊-总第194期-2025年第03周](https://wiki.eryajf.net/pages/c3722a/) 
-<!-- BLOG-POST-LIST:END -->
 
 More posts are available here：[https://wiki.eryajf.net](https://wiki.eryajf.net)
-
+-->
 </details>
