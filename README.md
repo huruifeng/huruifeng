@@ -4,23 +4,26 @@
 <h3>🤗  Welcome to my GitHub.</h3>
 </div>
 
-Hi there! I'm **Ruifeng Hu, Ph.D.**, a computational biologist specializing in **bioinformatics, machine learning, and multi-omics data analysis**. Currently, I work as a **Research Scientist at Yale School of Medicine**, applying advanced statistical and AI-driven approaches to decipher complex biological data for **biomarker discovery, precision medicine, and disease modeling**.
 <img align='right' src="https://github.com/huruifeng/huruifeng/blob/main/images/giphy.gif" width="450" height="390" />
-## 🔬 Expertise & Skills
+
+Hi there! I'm **Ruifeng Hu, Ph.D.**, a computational biologist specializing in **bioinformatics, machine learning, and multi-omics data analysis**. Currently, I work as a **Research Scientist at Yale School of Medicine**, applying advanced statistical and AI-driven approaches to decipher complex biological data for **biomarker discovery, precision medicine, and disease modeling**.
+<!-- ## 🔬 Expertise & Skills -->
+
 - **Multi-omics Data Analysis**: Single-cell & bulk RNA-seq, spatial transcriptomics, CRISPR screens, genetics.
 - **Machine Learning & Deep Learning**: Regression, clustering, generative models (VAE, LSTM, Transformer).
 - **Cloud & HPC Computing**: Nextflow, Airflow, Docker, AWS, GCP, high-performance computing.
-- **Bioinformatics Pipelines & Web Development**: Automated workflows and interactive genomic data platforms.
+- **Bioinformatics Pipelines & Web Development**: Automated workflows and interactive genomic data platforms.<!--
 
-## 🚀 Projects & Contributions
+<!-- ## 🚀 Projects & Contributions -->
 I actively contribute to **open-source projects** and have developed various **bioinformatics tools and databases**. My research focuses on leveraging AI and data-driven methods to advance **biomedical discoveries**.
 
-## 🌱 Collaboration & Interests
+<!-- ## 🌱 Collaboration & Interests -->
 I thrive in **collaborative environments**, working closely with **wet lab scientists** and other researchers to **bridge the gap between computational and experimental biology**. Always exploring **cutting-edge AI applications in bioinformatics**!
 
+Let's connect and explore new possibilities in **AI-driven bioinformatics**! 🔬🤖✨
 ---
 
-Let's connect and explore new possibilities in **AI-driven bioinformatics**! 🔬🤖✨
+
 
 
 ### 🧰 语言工具
