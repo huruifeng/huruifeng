@@ -12,7 +12,7 @@ I have rich experience in:
 - **Multi-omics Data Analysis**: Single-cell & bulk RNA-seq, spatial transcriptomics, CRISPR screens, genetics.
 - **Machine Learning & Deep Learning**: Regression, clustering, generative models (VAE, LSTM, Transformer).
 - **Cloud & HPC Computing**: Nextflow, Airflow, Docker, AWS, GCP, high-performance computing.
-- **Bioinformatics Pipelines & Web Development**: Automated workflows and interactive genomic data platforms.<!--
+- **Bioinformatics Pipelines & Web Development**: Automated workflows and interactive genomic data platforms.
 
 <!-- ## 🚀 Projects & Contributions -->
 I actively contribute to **open-source projects** and have developed various **bioinformatics tools and databases**. My research focuses on leveraging AI and data-driven methods to advance **biomedical discoveries**.
