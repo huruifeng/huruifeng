@@ -29,7 +29,7 @@ Let's connect and explore new possibilities in **AI-driven bioinformatics**! ðŸ”
 
 ### ðŸ§° Developing
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,github,githubactions,aws,gcp,ubuntu,linux,docker,git,bash,md,mongodb,mysql,sqlite,postgres,postman,react,vite,nodejs,npm,materialui,d3,bootstrap,flask,fastapi,express,vscode,pycharm&theme=light)](https://github.com/eryajf)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,github,githubactions,aws,gcp,ubuntu,linux,docker,git,bash,md,mongodb,mysql,sqlite,postgres,postman,react,vite,nodejs,npm,materialui,d3,bootstrap,flask,fastapi,express,vscode,pycharm&theme=light)](https://github.com/huruifeng)
 
 
 
