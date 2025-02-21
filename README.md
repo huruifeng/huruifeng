@@ -25,7 +25,7 @@ Let's connect and explore new possibilities in **AI-driven bioinformatics**! �
 
 ### 🧰 Programming
 
-[![My Skills](https://skillicons.dev/icons?i=py,r,powershell,c,cpp,java,go,js,ts,HTML,css&theme=light)](https://github.com/huruifeng)
+[![My Skills](https://skillicons.dev/icons?i=py,r,powershell,c,cpp,java,go,js,ts,html,css&theme=light)](https://github.com/huruifeng)
 
 ### 🧰 Developing
 
